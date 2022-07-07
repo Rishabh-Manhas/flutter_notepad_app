@@ -1,4 +1,6 @@
 # Notes app in flutter
+We've created a Notepad app using flutter framework on which user can add any type of textual data like Reminders, To-do-list, Bookmarks etc. depending on the purpose.
+
 
 codebook - theme, orientation, form focus.
 
